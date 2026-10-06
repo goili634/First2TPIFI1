@@ -1,0 +1,4 @@
+    Hello from PHP! using echo
+    Hello from PHP! using print
+    The value of a is: 3
+
