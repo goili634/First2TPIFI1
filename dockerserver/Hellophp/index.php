@@ -10,11 +10,12 @@
     <h1>Hello from HTML</h1>
     <?php
 
-        echo "Hello from php!using echo <br> \n";
-        print "Hello from php! using print <br>"; 
-        $a= 3;
-        echo "the value is: <br>";
-        echo $a;
+      $name = "Lidya";
+      $lastname = "goiteom";
+      $fullname = $name . " " . $lastname;
+
+      echo "<h1>hi there my name is " . $fullname . "</h1>";
+       
     ?>
 </body>
 </html>
