@@ -7,14 +7,10 @@
     <link rel="stylesheet" href="myStyles.css">
 </head>
 <body>
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="products.html">Products</a></li>
-        </ul>
-    </nav>
+    <?php
+        include_once ("commonCode.php");
+        navigationbar('about');
+        ?>
     <h2>Learn more about us!</h2>
 </body>
 </html>
