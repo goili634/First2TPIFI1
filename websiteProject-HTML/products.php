@@ -51,6 +51,6 @@
             </div>
                 
                 
-    <h2>Enjoy with our products</h2>
+   
 </body>
 </html>
