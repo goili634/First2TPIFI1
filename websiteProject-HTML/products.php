@@ -25,28 +25,28 @@
         <div class="AllItems">
             <div class="oneItem">
                 <div>Tshirt</div>
-                <img src="images/Tshirt.PNG" alt="Tshirt" width="20px" height="20px">
+                <img src="images/Tshirt.PNG" alt="Tshirt" width="60px" height="60px">
                 <div>Price: $10.99</div>
             </div>
 
             
             <div class="oneItem">
                 <div>WhiteTshirt</div>
-                <img src="images/WhiteTshirt.PNG" alt="WhiteTshirt" width="20px" height="20px">
+                <img src="images/WhiteTshirt.PNG" alt="WhiteTshirt" width="60px" height="60px">
                 <div>Price: $9.99</div>
             </div>
 
             
             <div class="oneItem">
                 <div>skirt</div>
-                <img src="images/skirt.PNG" alt="skirt" width="20px" height="20px">
+                <img src="images/skirt.PNG" alt="skirt" width="60px" height="60px">
                 <div>Price: $12.99</div>
             </div>
 
             
             <div class="oneItem">
                 <div>short</div>
-                <img src="images/short.PNG" alt="short" width="20px" height="20px">
+                <img src="images/short.PNG" alt="short" width="60px" height="60px">
                 <div>Price: $19.99</div>
             </div>
                 
