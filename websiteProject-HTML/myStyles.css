@@ -3,9 +3,9 @@
     list-style: none;
     margin: 0;
     padding: 0;
-    width: 25%;
+    width: 50%;
     justify-content: space-between;
-    border-radius: 25px;
+    border-radius: 50px;
     background-color: #73AD21;
     padding: 20px;
     width: 100px;
@@ -26,7 +26,7 @@
     margin: 0;
     padding: 0;
     width: 25%;
-    justify-content: space-around;
+    justify-content: space-between;
     border-radius: 25px;
     background-color: #73AD21;
     padding: 20px;
