@@ -18,7 +18,7 @@
          <ul id="languageLinks">
          
             <li><a href="index.php">English</a></li>
-            <li><a href="about.php" class="active">Amharic</a></li>
+            <li><a href="index-amh.php" class="active">Amharic</a></li>
         </ul>
         </nav>
         <h1> enkoan dehina metachehu</h1>

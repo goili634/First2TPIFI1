@@ -10,15 +10,15 @@
       <nav>
         <ul  id="mainLinks">
             <li><a href="index.php">Home</a></li>
-            <li><a href="about.php" class="active">About</a></li>
+            <li><a href="about.php">About</a></li>
             <li><a href="contact.php">Contact</a></li>
-            <li><a href="products.php">Products</a></li>
+            <li><a href="products.php" class="active">Products</a></li>
         </ul>
    
          <ul id="languageLinks">
          
-            <li><a href="index.php">English</a></li>
-            <li><a href="about.php" class="active">Amharic</a></li>
+            <li><a href="index.php" class="active">English</a></li>
+            <li><a href="about.php">Amharic</a></li>
         </ul>
         </nav>
 

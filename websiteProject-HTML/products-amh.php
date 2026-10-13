@@ -17,8 +17,8 @@
    
          <ul id="languageLinks">
          
-            <li><a href="index.php" class="active">English</a></li>
-            <li><a href="about.php">Amharic</a></li>
+            <li><a href="products.php">English</a></li>
+            <li><a href="products-amh.php" class="active">Amharic</a></li>
         </ul>
         </nav>
 

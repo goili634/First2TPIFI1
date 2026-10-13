@@ -7,10 +7,20 @@
     <link rel="stylesheet" href="myStyles.css">
 </head>
 <body>
-    <?php
-        include_once ("commonCode.php");
-        navigationbar('contact');
-        ?>
+    <nav>
+        <ul  id="mainLinks">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About</a></li>
+            <li><a href="contact.php" class="active">Contact</a></li>
+            <li><a href="products.php">Products</a></li>
+        </ul>
+   
+         <ul id="languageLinks">
+         
+            <li><a href="contact.php" class="active">English</a></li>
+            <li><a href="contact-amh.php">Amharic</a></li>
+        </ul>
+        </nav>
     <h2> if you want to know more about us, contact us!</h2>
 </body>
 </html>

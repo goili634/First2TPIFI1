@@ -17,10 +17,10 @@
    
          <ul id="languageLinks">
          
-            <li><a href="index.php">English</a></li>
-            <li><a href="about.php" class="active">Amharic</a></li>
+            <li><a href="about.php">English</a></li>
+            <li><a href="about-amh.php" class="active">Amharic</a></li>
         </ul>
         </nav>
-    <h2>Learn more about us!</h2>
+    <h2>ለመረጃ</h2>
 </body>
 </html>
