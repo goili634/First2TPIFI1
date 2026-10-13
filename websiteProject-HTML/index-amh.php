@@ -21,5 +21,6 @@
             <li><a href="about.php" class="active">Amharic</a></li>
         </ul>
         </nav>
+        <h1> enkoan dehina metachehu</h1>
 </body>
 </html>

@@ -21,6 +21,6 @@
             <li><a href="about.php" class="active">Amharic</a></li>
         </ul>
         </nav>
-    <h2> if you want to know more about us, contact us!</h2>
+    <h2> yegnan magegnte kefelegachehu contact adergugn!</h2>
 </body>
 </html> 

@@ -17,9 +17,11 @@
    
          <ul id="languageLinks">
          
-            <li><a href="index.php" >English</a></li>
-            <li><a href="about.php" class="active">Amharic</a></li>
+            <li><a href="index.php" class="active">English</a></li>
+            <li><a href="about.php">Amharic</a></li>
         </ul>
         </nav>
+
+        <h1> yegna betam yemiyamer products</h1>
 </body>
 </html>
