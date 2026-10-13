@@ -14,4 +14,4 @@
         ?>
     <h2> welcome to our lovely website!</h2>
 </body>
-</html>in
+</html>

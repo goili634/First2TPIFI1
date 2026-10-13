@@ -46,7 +46,7 @@
             
             <div class="oneItem">
                 <div>short</div>
-                <img src="images/short.PNG" alt="short" width="60px" height="60px">
+                <img src="images/short.PNG" alt="short">
                 <div>Price: $19.99</div>
             </div>
                 
