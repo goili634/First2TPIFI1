@@ -9,13 +9,21 @@
     
     <h1>Hello from HTML</h1>
     <?php
-
-      $name = "Lidya";
-      $lastname = "goiteom";
-      $fullname = $name . " " . $lastname;
-
-      echo "<h1>hi there my name is " . $fullname . "</h1>";
-       
+      
+      for ($i = 0; $i < 3; $i++) 
+        
     ?>
+      <div  class="red"> </div> 
+
+      <div class="blue"> </div>
+        
+       
+
+
+     
+
+
+       
+    
 </body>
 </html>
