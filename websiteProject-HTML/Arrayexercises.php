@@ -30,6 +30,7 @@
         <?php
         }
         ?>
+        
     </table>
 </body>
 </html>
