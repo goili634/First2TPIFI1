@@ -10,19 +10,17 @@
 <body>
     <?php
 
-    $name= [
-        "Lidya",
-        "violeta" ,
-        "anestasia" ,
-        "Arthur",
-        "David" 
+    $heights= [
+        "Lidya" =>180,
+        "violeta"=>159 ,
+        "anestasia"=>177 ,
+        "Arthur"=>160,
+        "valerii"=>175 
     ];
-    $height =[180,159,177,160,175];
-     $count =[1,2,3,4,5,6];
-
 
     $heights["David"] = 175;
     $heights["Arthur"] = 169;
+
     ?>
     <table>
         <tr>
@@ -30,15 +28,12 @@
             <th>Name</th>
             <th>Height</th>
         </tr>
-   
-
     <?php
 
     foreach ($heights as $name => $height) {
     ?>
-
         <tr>
-            <td><?=  $count?></td>
+          
             <td><?=  $name ?></td>
             <td><?=  $height ?></td>
         </tr>

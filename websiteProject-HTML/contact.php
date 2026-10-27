@@ -21,6 +21,32 @@
             <li><a href="contact-amh.php">Amharic</a></li>
         </ul>
         </nav>
-    <h2> if you want to know more about us, contact us!</h2>
+    <h2> please give the correct answer:</h2>
+
+    <?php
+    
+           if(isset($_GET["integer"])){
+           print "Hello".$_GET["integer"];
+        }
+        else 
+       {
+      ?>
+      
+        <form method="GET" action= "Hello.php">
+
+
+       <label for="number1">Number 1:</label>
+<input type="number" id="number1" placeholder="Enter first number" onchange="addNumber()"> <br>
+<label for="number2">Number 2:</label>
+<input type="number" id="number2" placeholder="Enter second number" onchange="addNumber()"> <br>
+<button type="submit" onclick="addNumber()">Add</button>
+<input type="text" id="result" placeholder="Result" readonly>
+        <button type="submit">Complete AB </button>
+    </form>
+    <?php
+        }
+    ?>    
+
+   
 </body>
 </html>
