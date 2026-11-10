@@ -23,5 +23,28 @@
         </nav>
 
         <h1> yegna betam yemiyamer products</h1>
+        
+    <?php
+    
+    $namesOfproducts = ["short","skirt","socks","T-shirt","WhiteTshirt", "underWear"];
+    $imagesofproducts= ["images/short.png","images/skirt.png","images/socks.png", "images/T-shirt.png", "images/WhiteTshirt.png","images/underWear"];
+    $priceOfproducts = ["price $19.99","price  $12.99","price  $19.99","price  $10.99","price  $9.99","price  $29.99"];
+    ?>
+
+    <div class="AllItems">
+        <?php
+         for ($i = 0; $i < count($namesOfproducts); $i++) {
+
+     ?>
+
+        <div class="oneItem">
+            <div><?php print $namesOfproducts[$i];?></div>
+            <img src="<?= $imagesofproducts[$i]?>" alt="$namesOfproducts[$i]">
+            <div><?php print $priceOfproducts[$i];?></div>
+        </div>
+        
+        <?php
+        }
+        ?>
 </body>
 </html>

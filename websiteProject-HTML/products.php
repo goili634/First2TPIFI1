@@ -27,8 +27,7 @@
     </nav>
 
     <?php
-    include_once("commonCode.php");
-    navigationbar("products", "english");
+    
     $namesOfproducts = ["short","skirt","socks","T-shirt","WhiteTshirt", "underWear"];
     $imagesofproducts= ["images/short.png","images/skirt.png","images/socks.png", "images/T-shirt.png", "images/WhiteTshirt.png","images/underWear"];
     $priceOfproducts = ["price $19.99","price  $12.99","price  $19.99","price  $10.99","price  $9.99","price  $29.99"];
