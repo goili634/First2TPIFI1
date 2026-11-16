@@ -52,7 +52,7 @@
 
          <ul id="languageLinks">
 
-             <li><a href="index.php" <?php if ($language= "en") print ("class="active"");?>>English</a></li>
+             <li><a href="index.php" <?php if ($language= "en")?>English</a></li>
              <li><a href="index.php?lang=amh">Amharic</a></li>
          </ul>
      </nav>
